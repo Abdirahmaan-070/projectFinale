@@ -22,7 +22,7 @@
         <?php
         $menu = [
             "Voorgerechten" => [
-                ["title" => "Geitenkaassalade", "price" => "€30", "description" => "– Frisse salade met warme geitenkaas, honing en walnoten. (Contains milk, nuts, honey)", "Images" => "Images/salade.png"],
+                ["title" => "Geitenkaas salade", "price" => "€30", "description" => "– Frisse salade met warme geitenkaas, honing en walnoten. (Contains milk, nuts, honey)", "Images" => "Images/salade.png"],
                 ["title" => "Beef Tataki", "price" => "€30", "description" => "Licht gegrilde runderplakjes met sojagemberdressing en sesamzaad. (Contains soy, sesame, gluten in soy sauce)", "Images" => "Images/taki.png"],
                 ["title" => "Spicy Grilled Chicken Wings", "price" => "€30", "description" => "Krokante kippenvleugels met een pittige en frisse marinade. (Contains soy, possible gluten in marinade)", "Images" => "Images/food.png"],
                 ["title" => "Roasted Bell Pepper Soup –", "price" => "€30", "description" => "Romige soep van geroosterde rode paprika met een vleugje gerookte paprika. (Contains milk, possible gluten in croutons))", "Images" => "Images/soup.png"],
