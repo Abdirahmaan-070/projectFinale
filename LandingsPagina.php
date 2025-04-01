@@ -11,7 +11,7 @@
     <script src="https://kit.fontawesome.com/ddc4d07808.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Open+Sans:wght@400&display=swap" rel="stylesheet">
 
-    <title>LandingsPagina</title>
+    <title>Landings Pagina</title>
 </head>
 
 <body>
